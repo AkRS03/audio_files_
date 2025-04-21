@@ -1,2 +1,2 @@
 
-api_key='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'
+api_key='your_api_key'
